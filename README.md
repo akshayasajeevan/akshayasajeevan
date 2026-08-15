@@ -8,9 +8,11 @@
 - 📫 How to reach me **akshayasajeevan596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/akshaya s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaya s" height="30" width="40" /></a>
-<a href="https://kaggle.com/akshayasajeevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshayasajeevan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshaya-sajeevan/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
+<a href="https://github.com/akshayasajeevan" target="_blank">GitHub</a> &nbsp; | &nbsp;
+<a href="https://www.kaggle.com/akshayasajeevan" target="_blank">Kaggle</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayasajeevan&show_icons=true&locale=en&layout=compact" alt="akshayasajeevan" /></p>
