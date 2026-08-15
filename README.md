@@ -5,14 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayasajeevan" alt="akshayasajeevan" /></a> </p>
 
+- 🌱 I’m currently learning **AI-Driven Data Analytics**
+
+- 👨‍💻 All of my projects are available at [https://github.com/akshayasajeevan](https://github.com/akshayasajeevan)
+
+- 💬 Ask me about **Excel, Power BI & Data Visualization**
+
 - 📫 How to reach me **akshayasajeevan596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-<a href="https://www.linkedin.com/in/akshaya-sajeevan/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
-<a href="https://github.com/akshayasajeevan" target="_blank">GitHub</a> &nbsp; | &nbsp;
-<a href="https://www.kaggle.com/akshayasajeevan" target="_blank">Kaggle</a>
+<a href="https://linkedin.com/in/akshaya s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaya s" height="30" width="40" /></a>
+<a href="https://kaggle.com/akshayasajeevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshayasajeevan" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayasajeevan&show_icons=true&locale=en&layout=compact" alt="akshayasajeevan" /></p>
