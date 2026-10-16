@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshaya s</h1>
+<h1 align="center">Hi 👋, I'm Akshaya S</h1>
 <h3 align="center">BSC Computer Science Graduate | Data Analytics Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayasajeevan&label=Profile%20views&color=0e75b6&style=flat" alt="akshayasajeevan" /> </p>
