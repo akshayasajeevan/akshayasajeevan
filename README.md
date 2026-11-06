@@ -54,19 +54,20 @@
 - Statistical Analysis
 - Data Interpretation
 
+<!-- FEATURED PROJECTS -->
 ## 📂 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>📊 Retail Store Sales Analytics</h3>
-      <p>Retail sales analysis to explore sales trends and generate business insights.</p>
+      <p>Analyzed retail sales data to identify sales trends and generate business insights.</p>
       <p><strong>Tools:</strong> Excel, Power Query, Power BI, DAX</p>
       <a href="https://github.com/akshayasajeevan/Retail-Store-Sales-Analysis">View Repository →</a>
     </td>
     <td width="50%">
       <h3>🛒 Amazon Sales Analysis</h3>
-      <p>Interactive Power BI dashboards to explore sales data and order performance.</p>
+      <p>Developed interactive dashboards to explore Amazon sales data and order performance.</p>
       <p><strong>Tools:</strong> Power BI, Data Analysis</p>
       <a href="https://github.com/akshayasajeevan/Amazon-Sales-Analysis">View Repository →</a>
     </td>
@@ -74,15 +75,15 @@
   <tr>
     <td width="50%">
       <h3>📱 Social Media Engagement Analytics</h3>
-      <p>Analyzing social media engagement using data cleaning, statistical analysis and visualization.</p>
+      <p>Explored social media engagement through data cleaning, statistical analysis and keyword analysis.</p>
       <p><strong>Tools:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn</p>
       <a href="https://github.com/akshayasajeevan/Social-Media-Engagement-Analytics-Using-Python">View Repository →</a>
     </td>
     <td width="50%">
-      <h3>📈 Python Data Visualization</h3>
-      <p>Practical implementation of data visualization techniques using Python.</p>
-      <p><strong>Tools:</strong> Python, Matplotlib, Seaborn</p>
-      <a href="https://github.com/akshayasajeevan/Python-Data-Visualization">View Repository →</a>
+      <h3>📉 Customer Churn Analysis</h3>
+      <p>Analyzing customer churn patterns to understand customer retention and identify factors associated with customer attrition.</p>
+      <p><strong>Tools:</strong> To be updated based on project</p>
+      <a href="YOUR_CUSTOMER_CHURN_REPOSITORY_URL">View Repository →</a>
     </td>
   </tr>
 </table>
