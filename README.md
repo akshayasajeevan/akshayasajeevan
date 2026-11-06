@@ -6,9 +6,9 @@
   <a href="https://github.com/akshayasajeevan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/akshaya-sajeevan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/akshaya-sajeevan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:akshayasajeevan596@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -83,7 +83,7 @@
       <h3>📉 Customer Churn Analysis</h3>
       <p>Analyzing customer churn patterns to understand customer retention and identify factors associated with customer attrition.</p>
       <p><strong>Tools:</strong> To be updated based on project</p>
-      <a href="YOUR_CUSTOMER_CHURN_REPOSITORY_URL">View Repository →</a>
+      <a href="https://github.com/akshayasajeevan/SQL-E-Commerce-Customer-Churn-Analysis.git">View Repository →</a>
     </td>
   </tr>
 </table>
