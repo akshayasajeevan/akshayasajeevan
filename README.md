@@ -6,8 +6,9 @@
   <a href="https://github.com/akshayasajeevan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/akshaya-sajeevan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="https://www.linkedin.com/in/akshaya-sajeevan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </a>
   <a href="mailto:akshayasajeevan596@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -117,9 +118,9 @@ Calicut University | 2023 – 2026
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <p>Interested in Data Analytics, continuous learning and professional opportunities.</p>
-  <a href="www.linkedin.com/in/akshaya-sajeevan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+    <a href="https://www.linkedin.com/in/akshaya-sajeevan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:akshayasajeevan596@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
