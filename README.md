@@ -102,7 +102,7 @@
 
 Calicut University | 2023 – 2026
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
   <img width="95%" src="https://streak-stats.demolab.com?user=akshayasajeevan&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
