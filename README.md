@@ -105,12 +105,12 @@ Calicut University | 2023 – 2026
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshayasajeevan&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayasajeevan&layout=compact&hide_border=true&theme=default" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshayasajeevan&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayasajeevan&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=akshayasajeevan&theme=default&hide_border=true" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=akshayasajeevan&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
