@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshaya S</h1>
-<h3 align="center">BSC Computer Science Graduate | Data Analytics Student</h3>
+<h3 align="center">B.Sc. Computer Science Graduate | Aspiring Data Analyst</h3>
 
 
 - 🌱 I’m currently learning **AI-Driven Data Analytics**
