@@ -80,11 +80,11 @@
       <p><strong>Tools:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn</p>
       <a href="https://github.com/akshayasajeevan/Social-Media-Engagement-Analytics-Using-Python">View Repository →</a>
     </td>
-    <td width="50%">
-      <h3>📉 Customer Churn Analysis</h3>
-      <p>Analyzing customer churn patterns to understand customer retention and identify factors associated with customer attrition.</p>
-      <p><strong>Tools:</strong> To be updated based on project</p>
-      <a href="https://github.com/akshayasajeevan/SQL-E-Commerce-Customer-Churn-Analysis.git">View Repository →</a>
+       <td width="50%">
+      <h3>📉 E-Commerce Customer Churn Analysis</h3>
+      <p>Analyzed e-commerce customer data to explore churn patterns, identify customer retention factors and examine the relationship between customer complaints and churn.</p>
+      <p><strong>Tools:</strong> SQL, MySQL, MySQL Workbench</p>
+      <a href="https://github.com/akshayasajeevan/SQL-E-Commerce-Customer-Churn-Analysis">View Repository →</a>
     </td>
   </tr>
 </table>
